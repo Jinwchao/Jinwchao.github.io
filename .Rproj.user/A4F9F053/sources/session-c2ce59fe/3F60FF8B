@@ -3,9 +3,9 @@
     "path": "D:/homework/NM2207/Jinwchao.github.io/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "3515293362",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1711479626026.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711479468,
+    "lastKnownWriteTime": 1711484994,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711482503779,
+    "last_content_update": 1711484994427,
     "read_only": false,
     "read_only_alternatives": []
 }
