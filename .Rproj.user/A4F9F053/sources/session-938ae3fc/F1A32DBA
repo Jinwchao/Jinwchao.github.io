@@ -14,19 +14,19 @@
         "rmdVisualWrapConfigured": "true",
         "source_window_id": "",
         "Source": "Source",
-        "docOutlineVisible": "1",
+        "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "107:58",
-        "cursorPosition": "6,434",
+        "cursorPosition": "12,0",
         "scrollLine": "5",
         "docOutlineSize": "110"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712164463,
+    "lastKnownWriteTime": 1712165390,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712164463777,
+    "last_content_update": 1712165390256,
     "read_only": false,
     "read_only_alternatives": []
 }
