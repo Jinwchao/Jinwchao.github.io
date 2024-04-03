@@ -1,8 +1,9 @@
 library(shiny)
 library(ggplot2)
 library(dplyr)
+library(readr)
 
-global_temp <- read.csv("D:/homework/NM2207/Jinwchao.github.io/GlobalLandTemperaturesByCountry.csv")
+global_temp <- read_csv("GlobalLandTemperaturesByCountry.csv")
 
 # 确保Dt列是日期类型
 global_temp$dt <- as.Date(global_temp$dt)
