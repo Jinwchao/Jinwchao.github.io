@@ -33,7 +33,9 @@ In the current study, Impacts of land use, population, and climate change on glo
 ```
 
 
-This visual window provides an interactive world map view of population growth and population density for different countries. The user selects the year (every decade from 1970 to 2020) via a slider, and the map then displays the population data for each country for that year. Each country is represented by a circle on the map, which changes in size and color to reflect the size and density of the population.
+This interactive world map reveals to us the dynamics of population growth and population density over time on a global scale.
+
+On the map's timeline, we traverse historical points marked every ten years from 1970 to 2020. At the same time, the map visually shows us the size and density of the population in each country/region in a given year by changing the size and color of the circles. By exploring this map, we not only gain a deeper understanding of the demographic changes of the past half-century, but also anticipate the challenges we may face in the future.
 
 ## Crop population over world
 
