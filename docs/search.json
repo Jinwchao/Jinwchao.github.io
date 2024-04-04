@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n\n\n\n\n\n\nGoal\n\n\nJoin us\nWe invite you to join us in protecting the environment, one way or another. Every contribution you make will have a significant impact on the planet, working together for global food security.\nLet’s work together to meet the challenge of climate change for our “global granary”."
+    "text": "About this site\nWe invite you to join us in protecting the environment, one way or another. Every contribution you make will have a significant impact on the planet, working together for global food security."
   },
   {
     "objectID": "index.html#global-temperature-trends",
@@ -25,7 +25,7 @@
     "href": "index.html#increasing-world-population",
     "title": "How global climate change is reshaping our granary?",
     "section": "Increasing world population",
-    "text": "Increasing world population\nIn the current study, Impacts of land use, population, and climate change on global food security, it is projected that the global population will peak at 9.7 billion in 2050, accompanied by a significant increase in demand for food. This population growth will inevitably put enormous pressure on the global food supply system. At the same time, frequent and extreme weather events triggered by climate change are eroding the stability and predictability of agricultural production, leading to reduced crop yields. Together, these factors constitute a major challenge to achieving food security on a global scale.\n \nThis visual window provides an interactive world map view of population growth and population density for different countries. The user selects the year (every decade from 1970 to 2020) via a slider, and the map then displays the population data for each country for that year. Each country is represented by a circle on the map, which changes in size and color to reflect the size and density of the population."
+    "text": "Increasing world population\nIn the current study, Impacts of land use, population, and climate change on global food security, it is projected that the global population will peak at 9.7 billion in 2050, accompanied by a significant increase in demand for food. This population growth will inevitably put enormous pressure on the global food supply system. At the same time, frequent and extreme weather events triggered by climate change are eroding the stability and predictability of agricultural production, leading to reduced crop yields. Together, these factors constitute a major challenge to achieving food security on a global scale.\n \nThis interactive world map reveals to us the dynamics of population growth and population density over time on a global scale.\nOn the map’s timeline, we traverse historical points marked every ten years from 1970 to 2020. At the same time, the map visually shows us the size and density of the population in each country/region in a given year by changing the size and color of the circles. By exploring this map, we not only gain a deeper understanding of the demographic changes of the past half-century, but also anticipate the challenges we may face in the future."
   },
   {
     "objectID": "index.html#crop-population-over-world",
