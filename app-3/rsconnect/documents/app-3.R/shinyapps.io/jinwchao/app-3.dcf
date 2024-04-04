@@ -1,0 +1,12 @@
+name: app-3
+title: app-3
+username: jinwchao
+account: jinwchao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11665338
+bundleId: 8453973
+url: https://jinwchao.shinyapps.io/app-3/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

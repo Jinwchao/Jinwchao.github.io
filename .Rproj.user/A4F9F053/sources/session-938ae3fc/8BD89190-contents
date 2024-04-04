@@ -18,9 +18,6 @@ annual_avg_temp <- global_temp %>%
   group_by(Country, Year) %>%
   summarize(AverageTemperature = mean(AverageTemperature, na.rm = TRUE), .groups = 'drop') # 确保分组后的数据不会保留在结果中
 
-# 注意: 使用summarize()会自动删除NA值，但在计算平均值时添加na.rm = TRUE确保了不会因为NA值而返回NA。
-
-
 # UI定义
 ui <- fluidPage(
   
