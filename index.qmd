@@ -2,8 +2,6 @@
 title: "How global climate change is reshaping our granary?"
 ---
 
-## Global Temperature Trends
-
 As the Earth's temperature slowly rises, we are not only facing disappearing glaciers, rising sea levels and an increase in extreme weather events - our food security is also being threatened as never before. The impacts of global warming on agriculture are far-reaching and complex, and from shifts in planting seasons to adjustments in crop growth cycles, climate change is rewriting the global food production map.
 
 According to the Food and Agriculture Organization of the United Nations (FAO), global climate change has both indirect and direct impacts on agrifood systems. Changes in rainfall patterns, the increased frequency of extreme weather events and phenomena such as ocean acidification directly threaten global food production and security. These changes are forcing agricultural producers to adapt to new environmental conditions, which often requires time and resources, and in some cases a complete reconfiguration of existing agricultural technologies and methods.
@@ -11,6 +9,7 @@ According to the Food and Agriculture Organization of the United Nations (FAO), 
 
 But this story is not a one-dimensional pessimistic narrative. It is a story of challenge, opportunityand innovation. It involves scientists, farmers, policymakers and ordinary citizens, each working to address this global challenge. Through three interactive charts - showing changes in global temperature trends, population growth, and food production - we'll take you on a deep dive into how global warming is affecting our "breadbasket," and what we can do about it.
 
+## Global Temperature Trends
 
 ```{=html}
 <iframe height="400" width="100%" frameborder="no" src="https://jinwchao.shinyapps.io/personal_app/"> </iframe>
