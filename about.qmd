@@ -2,11 +2,9 @@
 title: "About"
 ---
 
-# About this site
-
 ![](GlobalWarming2.jpg){alt="Global Warming" fig-align="left" width="500"}
 
-# Goal
+# About this site
 
 # Join us
 
