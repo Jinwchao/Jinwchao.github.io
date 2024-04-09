@@ -16,7 +16,9 @@ library(leaflet)
 library(dplyr)
 
 ui <- fluidPage(
-  titlePanel("World Population Map"),
+  div(
+    tags$h3("World Population Map", style = "font-size: 20px;"),
+  ),
   sidebarLayout(
     sidebarPanel(
       # 使用sliderInput代替selectInput来选择年份

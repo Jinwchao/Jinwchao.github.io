@@ -20,8 +20,9 @@ annual_avg_temp <- global_temp %>%
 
 # UI定义
 ui <- fluidPage(
-  
-  titlePanel("GlobalLand Temperature Trends by Country"),
+  div(
+    tags$h3("GlobalLand Temperature Trends by Country", style = "font-size: 20px;"),
+  ),
   sidebarLayout(
     sidebarPanel(
       selectInput("country", "Choose a country:",

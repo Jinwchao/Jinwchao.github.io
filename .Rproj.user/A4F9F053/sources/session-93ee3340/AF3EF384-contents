@@ -5,7 +5,9 @@ library(dplyr)
 Crop_production <- read.csv("crop_production.csv")
 
 ui <- fluidPage(
-  titlePanel("Crop Production by Country"),
+  div(
+    tags$h3("Crop Production by Country", style = "font-size: 20px;"),
+  ),
   sidebarLayout(
     sidebarPanel(
       # 创建一个滑动条来选择年份
