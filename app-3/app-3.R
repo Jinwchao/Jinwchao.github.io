@@ -12,6 +12,7 @@ ui <- fluidPage(
       sliderInput("year",
                   "Select Year:",
                   min = 1990,
+                  sep = "",
                   max = max(Crop_production$Time),
                   value = max(Crop_production$Time),
                   step = 1)
@@ -32,10 +33,13 @@ server <- function(input, output) {
       summarize(AverageProduction = mean(Value, na.rm = TRUE))
     
     # 绘制柱状图
-    ggplot(data_filtered, aes(x = Location, y = AverageProduction)) +
-      geom_col() +
-      theme(axis.text.x = element_text(angle = 90, hjust = 1)) +  # 如果国家名称较长，可以旋转标签
-      labs(x = "Country", y = "Average Crop Production", title = paste("Rice Production in", input$year))
+    options(scipen = 999)
+    ggplot(data_filtered, aes(x = Location, y = AverageProduction + 10)) +
+      geom_col() +  # 如果国家名称较长，可以旋转标签
+      labs(x = "Country", y = "Average Crop Production", title = paste("Rice Production in", input$year)) +
+      theme_bw() +
+      scale_y_log10()  +
+      theme(axis.text.x = element_text(angle = 90, hjust = 1))
   })
 }
 

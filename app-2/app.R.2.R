@@ -25,6 +25,7 @@ ui <- fluidPage(
                   min = 1970,
                   max = 2020,
                   value = 2020,
+                  sep = "",
                   step = 10,  # 每隔十年为一个步长
                   ticks = TRUE  # 显示滑块下的刻度
       )

@@ -1,27 +1,27 @@
 {
-    "id": "8BD89190",
-    "path": "D:/homework/NM2207/Jinwchao.github.io/personal_app/app.R",
-    "project_path": "personal_app/app.R",
+    "id": "AF3EF384",
+    "path": "D:/homework/NM2207/Jinwchao.github.io/app-3/app-3.R",
+    "project_path": "app-3/app-3.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "969812520",
     "contents": "",
     "dirty": false,
-    "created": 1711483722755.0,
+    "created": 1712230416910.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 9,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,0",
-        "scrollLine": "0"
+        "cursorPosition": "33,4",
+        "scrollLine": "24"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712229857,
+    "lastKnownWriteTime": 1712659372,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712229857961,
+    "last_content_update": 1712659372546,
     "read_only": false,
     "read_only_alternatives": []
 }

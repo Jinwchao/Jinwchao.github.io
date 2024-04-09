@@ -44,7 +44,8 @@ server <- function(input, output) {
       geom_line() + 
       theme_minimal() +
       scale_x_continuous(breaks = seq(min(country_data$Year), max(country_data$Year), by = 10)) + # 每10年显示一次刻度
-      labs(x = "Year", y = "Temperature (°C)", title = paste("Annual Temperature Trends in", input$country))
+      labs(x = "Year", y = "Temperature (°C)", title = paste("Annual Temperature Trends in", input$country)) +
+      theme(axis.text.x = element_text(angle = 90))
   })
 }
 # 运行应用
