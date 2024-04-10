@@ -11,7 +11,7 @@ global_temp$dt <- as.Date(global_temp$dt)
 # 添加年份列
 global_temp$Year <- format(global_temp$dt, "%Y")
 
-global_temp <- filter(global_temp, Year >= 1800)
+global_temp <- filter(global_temp, Year >= 1900)
 
 # 按国家和年份聚合数据，计算每年的平均温度
 annual_avg_temp <- global_temp %>%
