@@ -3,7 +3,7 @@
     "path": "D:/homework/NM2207/Jinwchao.github.io/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2351528772",
     "contents": "",
     "dirty": false,
     "created": 1711479627261.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0",
+        "rmdVisualModeLocation": "388:288",
         "cursorPosition": "6,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712685914,
+    "lastKnownWriteTime": 1713125416,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712685914970,
+    "last_content_update": 1713125416567,
     "read_only": false,
     "read_only_alternatives": []
 }
