@@ -5,7 +5,7 @@ account: jinwchao
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11665338
-bundleId: 8473528
+bundleId: 8495281
 url: https://jinwchao.shinyapps.io/app-3/
 version: 1
 asMultiple: FALSE

@@ -1,0 +1,7 @@
+[1,"==> quarto preview index.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Jinwchao.github.io\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n    - style.css\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: cosmo\n  title: How Our Global Breadbaskets Are Facing Climate Change\n  \n"]
+[1,"Output created: docs\\index.html\n\nPreparing to preview\n"]
+[1,"\n"]
+[1,"Watching files for changes\nBrowse at http://localhost:5889/\n"]
+[1,"GET: /index.html\n"]
+[1,"  /style.css (404: Not Found)\n"]
